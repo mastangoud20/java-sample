@@ -51,13 +51,7 @@
       <url>http://40.78.50.180:8081/repository/maven-releases/</url>
    </repository>
     
-       <repository>
-      <id>SAM1</id>
-      <name>SAM1</name>
-      <url>http://40.78.50.180:8081/repository/SAM1/</url>
-   </repository>
-
-      <snapshotRepository>
+  <snapshotRepository>
       <id>snapshots</id>
       <name>Snapshots</name>
       <url>http://40.78.50.180:8081/repository/maven-snapshots/</url>
